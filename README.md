@@ -18,4 +18,4 @@ Before using this script, make sure you have the following:
 3. Run the script with the following command, replacing `<ip_address>` and `<port>` with the appropriate values:
    
    ```shell
-   python backDoor.py <ip_address> <port>
+   python serverBackDoor.py <ip_address> <port>
